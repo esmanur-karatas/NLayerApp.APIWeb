@@ -1,0 +1,10 @@
+C:\Users\DELL\Desktop\NLayerApp\NLayer.Core\bin\Release\NLayer.Core.dll
+C:\Users\DELL\Desktop\NLayerApp\NLayer.Core\bin\Release\NLayer.Core.pdb
+C:\Users\DELL\Desktop\NLayerApp\NLayer.Core\bin\Release\Microsoft.Analytics.Interfaces.dll
+C:\Users\DELL\Desktop\NLayerApp\NLayer.Core\bin\Release\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\DELL\Desktop\NLayerApp\NLayer.Core\bin\Release\Microsoft.Analytics.Types.dll
+C:\Users\DELL\Desktop\NLayerApp\NLayer.Core\obj\Release\NLayer.Core.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\NLayerApp\NLayer.Core\obj\Release\NLayer.Core.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\NLayerApp\NLayer.Core\obj\Release\NLayer.Core.csproj.CopyComplete
+C:\Users\DELL\Desktop\NLayerApp\NLayer.Core\obj\Release\NLayer.Core.dll
+C:\Users\DELL\Desktop\NLayerApp\NLayer.Core\obj\Release\NLayer.Core.pdb

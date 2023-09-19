@@ -1,0 +1,12 @@
+C:\Users\DELL\Desktop\NLayerApp\NLayer.Repository\bin\Debug\NLayer.Repository.dll
+C:\Users\DELL\Desktop\NLayerApp\NLayer.Repository\bin\Debug\NLayer.Repository.pdb
+C:\Users\DELL\Desktop\NLayerApp\NLayer.Repository\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\DELL\Desktop\NLayerApp\NLayer.Repository\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\DELL\Desktop\NLayerApp\NLayer.Repository\bin\Debug\Microsoft.Analytics.Types.dll
+C:\Users\DELL\Desktop\NLayerApp\NLayer.Repository\bin\Debug\NLayer.Core.dll
+C:\Users\DELL\Desktop\NLayerApp\NLayer.Repository\bin\Debug\NLayer.Core.pdb
+C:\Users\DELL\Desktop\NLayerApp\NLayer.Repository\obj\Debug\NLayer.Repository.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\NLayerApp\NLayer.Repository\obj\Debug\NLayer.Repository.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\NLayerApp\NLayer.Repository\obj\Debug\NLayer.Repository.csproj.CopyComplete
+C:\Users\DELL\Desktop\NLayerApp\NLayer.Repository\obj\Debug\NLayer.Repository.dll
+C:\Users\DELL\Desktop\NLayerApp\NLayer.Repository\obj\Debug\NLayer.Repository.pdb
